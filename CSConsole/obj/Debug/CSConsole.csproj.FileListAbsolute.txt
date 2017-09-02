@@ -1,0 +1,6 @@
+C:\deepak\CSDemo\CSTry\CSTry\CSConsole\bin\Debug\CSConsole.exe.config
+C:\deepak\CSDemo\CSTry\CSTry\CSConsole\bin\Debug\CSConsole.exe
+C:\deepak\CSDemo\CSTry\CSTry\CSConsole\bin\Debug\CSConsole.pdb
+C:\deepak\CSDemo\CSTry\CSTry\CSConsole\obj\Debug\CSConsole.csprojResolveAssemblyReference.cache
+C:\deepak\CSDemo\CSTry\CSTry\CSConsole\obj\Debug\CSConsole.exe
+C:\deepak\CSDemo\CSTry\CSTry\CSConsole\obj\Debug\CSConsole.pdb
