@@ -1,0 +1,5 @@
+C:\deepak\CSDemo\CSTry\CSTry\CSTry_4\obj\Debug\CSTry_4.csprojResolveAssemblyReference.cache
+C:\deepak\CSDemo\CSTry\CSTry\CSTry_4\bin\Debug\CSTry_4.dll
+C:\deepak\CSDemo\CSTry\CSTry\CSTry_4\bin\Debug\CSTry_4.pdb
+C:\deepak\CSDemo\CSTry\CSTry\CSTry_4\obj\Debug\CSTry_4.dll
+C:\deepak\CSDemo\CSTry\CSTry\CSTry_4\obj\Debug\CSTry_4.pdb

@@ -1,0 +1,4 @@
+C:\deepak\CSDemo\CSTry\CSTry\CSTry_7\bin\Debug\CSTry_7.dll
+C:\deepak\CSDemo\CSTry\CSTry\CSTry_7\bin\Debug\CSTry_7.pdb
+C:\deepak\CSDemo\CSTry\CSTry\CSTry_7\obj\Debug\CSTry_7.dll
+C:\deepak\CSDemo\CSTry\CSTry\CSTry_7\obj\Debug\CSTry_7.pdb
